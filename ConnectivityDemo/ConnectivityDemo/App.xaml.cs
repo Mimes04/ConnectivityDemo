@@ -2,6 +2,7 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+
 namespace ConnectivityDemo
 {
     public partial class App : Application
@@ -15,6 +16,7 @@ namespace ConnectivityDemo
 
         protected override void OnStart()
         {
+            
         }
 
         protected override void OnSleep()

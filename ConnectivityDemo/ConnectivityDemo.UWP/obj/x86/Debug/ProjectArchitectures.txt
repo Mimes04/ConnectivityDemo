@@ -1,0 +1,1 @@
+C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo.UWP\ConnectivityDemo.UWP.csproj;x86

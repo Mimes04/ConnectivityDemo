@@ -2,7 +2,6 @@ C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\Connectivi
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo\bin\Debug\netstandard2.0\ConnectivityDemo.dll
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo\bin\Debug\netstandard2.0\ref\ConnectivityDemo.dll
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo\bin\Debug\netstandard2.0\ConnectivityDemo.pdb
-C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo\obj\Debug\netstandard2.0\ConnectivityDemo.csproj.AssemblyReference.cache
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo\obj\Debug\netstandard2.0\ConnectivityDemo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
@@ -13,3 +12,4 @@ C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\Connectivi
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo\obj\Debug\netstandard2.0\ConnectivityDemo.dll
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo\obj\Debug\netstandard2.0\ref\ConnectivityDemo.dll
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo\obj\Debug\netstandard2.0\ConnectivityDemo.pdb
+C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo\obj\Debug\netstandard2.0\ConnectivityDemo.csproj.AssemblyReference.cache

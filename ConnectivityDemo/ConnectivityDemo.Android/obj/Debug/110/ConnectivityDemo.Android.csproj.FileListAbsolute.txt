@@ -33,7 +33,6 @@ C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\Connectivi
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo.Android\obj\Debug\110\R.txt
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo.Android\obj\Debug\110\R.cs.flag
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo.Android\obj\Debug\110\ConnectivityDemo.Android.csproj.CoreCompileInputs.cache
-C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo.Android\obj\Debug\110\ConnectivityDemo.Android.csproj.CopyComplete
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo.Android\obj\Debug\110\ConnectivityDemo.Android.dll
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo.Android\obj\Debug\110\ConnectivityDemo.Android.pdb
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo.Android\obj\Debug\110\android\bin\com.companyname.connectivitydemo.apk
@@ -574,3 +573,4 @@ C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\Connectivi
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Israe\Source\Repos\Mimes04\ConnectivityDemo\ConnectivityDemo\ConnectivityDemo.Android\obj\Debug\110\ConnectivityDemo.Android.csproj.CopyComplete
